@@ -1,5 +1,4 @@
-,Mapeamento Direto,Conjunto Associativo (2 way),Conjunto Associativo (4 way),"Totalmente
-Associativa"
+,Mapeamento Direto, Conjunto Associativo (2 way),Conjunto Associativo (4 way),Totalmente Associativa
 nsets,256,128,64,1
 bsize,32,32,32,32
 assoc,1,2,4,256
