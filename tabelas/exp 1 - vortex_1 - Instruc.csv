@@ -1,0 +1,8 @@
+Parametros,Mapeamento Direto,Conjunto Associativo (2 way),Conjunto Associativo (4 way),"Totalmente
+Associativa"
+nsets,256,128,64,1
+bsize,32,32,32,32
+assoc,1,2,4,256
+repl,LRU,LRU,LRU,LRU
+Misses,8369984,7985434,7301184,6713446
+Miss_rate,0.1138,0.1086,0.0993,0,0913
