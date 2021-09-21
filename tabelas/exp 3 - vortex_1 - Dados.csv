@@ -1,0 +1,7 @@
+,N_bytes, 2N bytes, 4N bytes, 8N bytes
+nsets,256,128,64,32
+bsize,16,32,64,128
+assoc,1,1,1,1
+repl,l,l,l,l
+Misses,4262331,4002987,3988094,5741085
+Miss_rate,0.0868,0.0816,0.0812,0.1170
