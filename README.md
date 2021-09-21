@@ -41,7 +41,7 @@
 - Separada</br>`$./sim-cache -cache:il1 il1:256:32:1:l -cache:dl1 dl1:256:32:1:l -cache:il2 none -cache:dl2 none -tlb:itlb none -tlb:dtlb none vortex.ss vortex.in `
 - Unificada</br>`$./sim-cache -cache:il1 dl1 -cache:dl1 ul1:512:32:1:l -cache:il2 none -cache:dl2 none -tlb:itlb none -tlb:dtlb none vortex.ss vortex.in `
 
-#### i_jpeg experimento 3:
+#### i_jpeg experimento 4:
 - Separada</br>`$./sim-cache -cache:il1 il1:256:32:1:l -cache:dl1 dl1:256:32:1:l -cache:il2 none -cache:dl2 none -tlb:itlb none ijpeg.ss -image_file tinyrose.ppm -compression.quality 90 -compression.optimize_coding 0 -compression.smoothing_factor 90 -difference.image 1 -difference.x_stride 10 -difference.y_stride 10 -verbose 1 -GO.findoptcomp `
 - Unificada</br>`$./sim-cache -cache:il1 dl1 -cache:dl1 ul1:512:32:1:l -cache:il2 none -cache:dl2 none -tlb:itlb none -tlb:dtlb none ijpeg.ss -image_file tinyrose.ppm -compression.quality 90 -compression.optimize_coding 0 -compression.smoothing_factor 90 -difference.image 1 -difference.x_stride 10 -difference.y_stride 10 -verbose 1 -GO.findoptcomp `
 
