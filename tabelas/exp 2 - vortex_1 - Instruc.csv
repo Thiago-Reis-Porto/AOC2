@@ -1,6 +1,6 @@
 ,LRU,FIFO,RANDOM
 nsets,1,1,1
-bsize,32,32,32,32
+bsize,32,32,32
 assoc,256,256,256
 repl,l,f,r
 Misses,6713446,8007577,7287600
