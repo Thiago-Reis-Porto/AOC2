@@ -1,0 +1,8 @@
+,LRU,FIFO,RANDOM
+nsets,1,1,1
+bsize,32,32,32,32
+assoc,256,256,256
+repl,l,f,r
+Misses,970241,1016441,1077945
+Replacement,969985,1016185,1077689
+Miss_rate,0.0126,0.0132,0.0140
