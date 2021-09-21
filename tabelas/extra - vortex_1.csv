@@ -3,4 +3,4 @@ nsets,512,1024
 bsize,32,32
 assoc,1,1
 repl,l,l
-Misses,‭18615181‬,16082638‬
+Misses,‭18615181,16082638
