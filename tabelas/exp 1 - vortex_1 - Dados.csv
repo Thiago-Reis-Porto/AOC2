@@ -2,6 +2,6 @@
 nsets,256,128,64,1
 bsize,32,32,32,32
 assoc,1,2,4,256
-repl,LRU,LRU,LRU,LRU
+repl,l,l,l,l
 Misses,2674596,1592171,1358534,971821
 Miss_rate,0.0545,0.0324,0.0277,0.0198
