@@ -1,0 +1,6 @@
+,separada,Unificada
+nsets,256,512
+bsize,32,32
+assoc,1,1
+repl,l,l
+Misses,11044580‬,10397149
